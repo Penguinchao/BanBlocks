@@ -1,0 +1,5 @@
+main: com.penguinchao.banblocks.BanBlocks
+version: 1.0
+name: BanBlocks
+author: Penguinchao
+depend: [WorldGuard]

@@ -1,0 +1,10 @@
+#Should debug logging be enabled?
+debug-enabled: false
+#If true, portals will not work out of exempt regions
+prevent-portal-travel: true
+#Blocks that cannot be placed out of exempt regions
+banned-blocks:
+ - 165
+#Regions where banned blocks and portal travel will always be allowed
+exempt-regions:
+ - spawn
